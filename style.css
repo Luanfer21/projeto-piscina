@@ -50,14 +50,15 @@ header {
 .textos {
   background:#f1f1fe;
   padding: 20px;
-  margin: 20px 0;
+  margin-right: 100px;
   border-radius: 10px;
+  margin-left: 15px;
 }
 
 
 .imagem {
   width: 25%;
-  border-radius: 100px;
+  border-radius: 15%;
   align-items: center;
   position: sticky;
 }
